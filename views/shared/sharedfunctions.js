@@ -1,0 +1,7 @@
+﻿var jmvc = jmvc || {};
+
+
+
+$(function () {
+
+});
