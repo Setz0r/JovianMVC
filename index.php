@@ -1,3 +1,4 @@
 <?php
-echo "no";
+require_once('inc/config.php');
 
+Router::Process();
